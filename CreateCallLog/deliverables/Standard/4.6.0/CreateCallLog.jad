@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: CreateCallLog
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_phone
+MIDlet-Jar-Size: 7594
+MIDlet-1: SwapStatergy,,
+RIM-COD-Creation-Time: 1282539324
+MIDlet-Jar-URL: CreateCallLog.jar
+RIM-COD-URL: CreateCallLog.cod
+RIM-COD-SHA1: 38 c5 72 63 7f a2 08 d2 38 01 24 4e 83 42 a7 46 23 59 7b e8
+RIM-COD-Size: 3452
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: CreateCallLog
+MIDlet-Vendor: BlackBerry Developer
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
